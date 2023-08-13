@@ -14,6 +14,6 @@ My goal is to make games and contribute to open source. That's it.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" height="30" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="28" height="28" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="30" height="30" />&nbsp;
