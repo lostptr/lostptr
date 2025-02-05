@@ -12,7 +12,4 @@ My goal is to make games and contribute to open source. That's it.
 
 ### 🛠 Technologies & Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" height="30" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="30" height="30" />&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,react,godot,rust,zig,neovim&theme=dark)](https://skillicons.dev)
