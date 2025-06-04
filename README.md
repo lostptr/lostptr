@@ -7,7 +7,7 @@ My goal is to make games and contribute to open source. That's it
 
 ### 🛠 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,ts,react,godot,rust,zig,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,react,godot,rust&theme=dark)](https://skillicons.dev)
 
 ### Contact
 
