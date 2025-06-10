@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Hello there!
-My goal is to make games and contribute to open source. That's it
+I do stuff with the funny computer letters.
 
 ### 🛠 Technologies & Tools
 
